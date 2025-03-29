@@ -1,0 +1,12 @@
+{
+  "description": "Portfolio",
+  "repo": "https://github.com/damianschoenberger/portfolio",
+  "owner": {
+    "username": "schdam",
+    "email": "damian.schoenberger@outlook.de"
+  },
+  "record": {
+    "A": "2.56.247.4"
+  },
+  "proxied": true
+}
